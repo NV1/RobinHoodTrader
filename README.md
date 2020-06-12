@@ -1,1 +1,2 @@
-# RobinHood-RSI-Trading-Bot
+# Robinhood RSI Trader Bot
+
