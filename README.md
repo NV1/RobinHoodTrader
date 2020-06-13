@@ -29,7 +29,7 @@ How To Run:
 1)Download Repo as clone (zip file)
 2)Open project on IDE (PyCharm, Visual Studio, etc...)
 3)Install missing packages and to install Robinhood package go to (https://pypi.org/project/robin-stocks/)
-4)Run and sign in with Robinhood username and password  (Two-Factor Sign In is required)
+4)Run on Python 3.0+ and sign in with Robinhood username and password  (Two-Factor Sign In is required)
 
 Enjoy!
 
