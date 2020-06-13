@@ -28,7 +28,7 @@ Updates in Progress:
 How To Run:
 1)Download Repo as clone (zip file)
 2)Open project on IDE (PyCharm, Visual Studio, etc...)
-3)Install missing packages and to install Robinhood package go to (https://pypi.org/project/robin-stocks/)
+3)Install missing packages  (install Robinhood package go to (https://pypi.org/project/robin-stocks/ , to instal Pyrh go to https://pyrh.readthedocs.io/en/latest/)
 4)Run on Python 3.0+ and sign in with Robinhood username and password  (Two-Factor Sign In is required)
 
 Enjoy!
