@@ -26,9 +26,9 @@ Updates in Progress:
 -RSI momentum on graphical chart
 
 How To Run:
-Download Repo as clone (zip file)
-Open project on IDE (PyCharm, Visual Studio, etc...)
-Install missing packages and to install Robinhood package go to (https://pypi.org/project/robin-stocks/)
-Run and sign in with Robinhood username and password  (Two-Factor Sign In is required)
-Enjoy!
+-Download Repo as clone (zip file)
+-Open project on IDE (PyCharm, Visual Studio, etc...)
+-Install missing packages and to install Robinhood package go to (https://pypi.org/project/robin-stocks/)
+-Run and sign in with Robinhood username and password  (Two-Factor Sign In is required)
+-Enjoy!
 
