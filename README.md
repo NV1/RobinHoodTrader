@@ -4,7 +4,10 @@ An effective python based fully automated trading system for the beginner trader
 
 The official Robinhood API is private, so an unoffical Robinhood API scraped and maintained by a widespread community is imported. The RSI momentum indicator is implemented to buy <= 30 and sell >= 70. It lays the foundation for the algorithm and for a scheduler to continuesly check by minute to minute basis for new price changes. 
 
-NOTE: The Bot provides a basic architecture for algorithmic trading and is not meant to be deployed into a production line.  
+Disclaimers:
+The Bot provides a basic architecture for algorithmic trading and is not meant to be deployed into a production line. Individual's Robinhood username and passwords are NOT saved or logged into cloud databases. 
+
+
 
 Robinhood Trader Bot v1.00
 The Trader Bot was given a Robinhood account with $50 and after 1 day the portfolio increased by 0.06%. 
@@ -21,4 +24,10 @@ Updates in Progress:
 -Addition of autodrawing system
 -Increase layer of support an resistance lines
 -RSI momentum on graphical chart
+
+How To Run:
+Download Repo as clone (zip file)
+Open project on IDE (PyCharm, Visual Studio, etc...)
+Run and sign in with Robinhood username and password  (Two-Factor Sign In is required)
+Enjoy!
 
